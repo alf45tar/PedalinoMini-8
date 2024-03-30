@@ -15,7 +15,7 @@ Quantity|Description|Version|Link|Price (USD)
 :------:|-----------|-------|----|-----:
 1|PedalinoMini™ 8 [STL files](https://github.com/pedalino-sponsors/PedalinoMini-8)||[Link](https://github.com/sponsors/alf45tar/sponsorships?sponsor=alf45tar&tier_id=392063&preview=false)|14
 180 g|3D printed case (minimum size of printing bed 250 mm)|PLA||7
-1|T-Display-S3|Soldered Pin [H577][Link](https://www.lilygo.cc/products/t-display-s3?variant=42351558590645)|15
+1|T-Display-S3|Soldered Pin [H577]|[Link](https://www.lilygo.cc/products/t-display-s3?variant=42351558590645)|15
 1|T-Display TF Shield|Female Pin [H610]|[Link](https://www.lilygo.cc/products/t-display-tf-shied?variant=42729797025973)|3
 8|SPST Momentary Soft Touch Foot Switch||[Link](https://www.aliexpress.com/item/1005004646906063.html)|20
 14 leds|WS2812B 5050 RGB LED Strip|5V 30 led/m IP30|[Link](https://www.aliexpress.com/item/1005004289391906.html)|2
