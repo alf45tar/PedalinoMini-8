@@ -17,12 +17,12 @@ Quantity|Description|Version|Link|Price (USD)
 180 g|3D printed case (minimum size of printing bed 250 mm)|PLA||7
 1|T-Display-S3|Soldered Pin [H577]]|[Link](https://www.lilygo.cc/products/t-display-s3?variant=42351558590645)|15
 1|T-Display TF Shield|Female Pin [H610]|[Link](https://www.lilygo.cc/products/t-display-tf-shied?variant=42729797025973)|3
-8|SPST Momentary Soft Touch Foot Switch|||26
-14 leds|WS2812B 5050 RGB LED Strip|5V 30 led/m IP30||2
+8|SPST Momentary Soft Touch Foot Switch||[Link](https://www.aliexpress.com/item/1005004646906063.html)|20
+14 leds|WS2812B 5050 RGB LED Strip|5V 30 led/m IP30|[Link](https://www.aliexpress.com/item/1005004289391906.html)|2
 4 m|Wire AWG24|AWG24||2
-2|M3 Hex Socket Cap Screw 10 mm|M3x10||0.2
+2|M3 Hex Socket Cap Screw 12 mm|M3x12||0.2
 |||||----------
-||||Total|69.20
+||||Total|63.20
 
 # Wiring
 
