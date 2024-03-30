@@ -9,7 +9,7 @@ PedalinoMini™ 8 operates seamlessly with its 8 footswitches, featuring a big 1
 
 # Bill of Materials
 
-![](./images/PedalinoMini%204%20Naked.jpg)
+![](./images/PedalinoMini%208%20Naked.jpg)
 
 Quantity|Description|Version|Link|Price (USD)
 :------:|-----------|-------|----|-----:
