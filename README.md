@@ -20,7 +20,7 @@ Quantity|Description|Version|Link|Price (USD)
 8|SPST Momentary Soft Touch Foot Switch||[Link](https://www.aliexpress.com/item/1005004646906063.html)|20
 14 leds|WS2812B 5050 RGB LED Strip|5V 30 led/m IP30|[Link](https://www.aliexpress.com/item/1005004289391906.html)|2
 1|Mini Switch SPST|KCD11 10x15mm|[Link](https://www.aliexpress.com/item/1005004533086891.html)|1
-2|6.35mm Stereo Socket Panel Mount|PJ-612A-5P|[Link](https://www.aliexpress.com/item/1005003631337479.html)|2
+2|6.35mm Stereo Socket Panel Mount|PJ-612A|[Link](https://www.aliexpress.com/item/1005003631337479.html)|2
 4 m|Wire AWG24|AWG24||2
 2|M3 Hex Socket Cap Screw 12 mm|M3x12||0.2
 |||||----------
